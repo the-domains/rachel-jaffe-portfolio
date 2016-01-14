@@ -1,0 +1,28 @@
+name: rachel jaffe portfolio
+favicon: null
+layout_spectrum: 0.5535746884997934
+typography_spectrum: 0.46867794799618423
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.2289797579869628
+  lightness: 0.1614186989609152
+  saturation: 0.4625558890402317
+  rhythmicContrast: 0.31126408744603395
+purpose: []
